@@ -11,7 +11,7 @@ package com.jeedt.algorithm;
  * 返回值
  * 2
  *
- * 思路：快速排序，从大到小，pivot为第7个元素位置时，即找到
+ * 思路：快速排序，从大到小，pivot为第K个元素位置时，即找到
  */
 public class FindKthClass {
     /*最小堆
