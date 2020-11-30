@@ -12,6 +12,7 @@
 * [文件查找TopK](src/com/jeedt/algorithm/TopK.java)
 * [寻找第K大](src/com/jeedt/algorithm/FindKthClass.java)
 * [快速排序](src/com/jeedt/algorithm/QuickSort.java)
+* [用两个栈实现队列](src/com/jeedt/algorithm/Stack2Queue.java)
 # thread
 * [按顺序打印](src/com/jeedt/thread/Foo.java)
 * [H2O生成](src/com/jeedt/thread/H2O.java)
